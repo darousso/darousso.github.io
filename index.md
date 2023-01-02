@@ -1,6 +1,10 @@
 ---
 layout: default
 title: David Rousso
+output:
+  html_document:
+    theme: cosmo
+    highlight: tango
 ---
 
 # David Rousso
