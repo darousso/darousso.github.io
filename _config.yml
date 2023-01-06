@@ -1,2 +1,5 @@
 name: David Rousso
 markdown: kramdown
+
+
+permalink: resources/:title
