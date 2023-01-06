@@ -12,5 +12,5 @@ My research is on searches for new particles beyond the standard model in ATLAS 
 
 I also designed and developed the ATLAS inner tracker upgrade (ITk) semiconductor strips sensors quality control software framework, do teaching (supervisions/TAing) at Cambridge, and do outreach at CERN.
 
-(Much like my thesis, this website is currently just an empty default shell under construction, but will eventually be filled with my research interests and history, CV, and resources I have created for my teaching. `#testinginprod`)
+(Much like my thesis, this website is currently just an empty default shell under construction. It currently contains a very basic section on my research interests and CV, but should hopefully soon be filled in with resources I have created for my teaching. `#testinginprod`)
 
