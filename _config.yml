@@ -33,10 +33,12 @@ plugins:
   - jekyll-feed
 
 markdown: kramdown
+kramdown:
+   math_engine: mathjax
 
+permalink: /resources/:title
 
-permalink: resources/:title
-
+keep_files: [stuff]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -57,3 +59,9 @@ permalink: resources/:title
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+# output:
+#   html_document:
+#     theme: cosmo
+#     highlight: tango
