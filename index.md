@@ -7,8 +7,9 @@ output:
     highlight: tango
 ---
 
-# David Rousso
 <img align="right" src="media/profile_temp.png" height="auto" width="350" style="border-radius:50%;margin:50px 50px">
+
+# David Rousso
 
 Hello! I am a fourth-year experimental particle physics PhD student in the [High Energy Physics Group](https://www.hep.phy.cam.ac.uk) in the Cavendish Laboratory at the University of Cambridge as a member of the ATLAS Collaboration on the Large Hadron Collider (LHC) at CERN, funded by Gates Cambridge. 
 

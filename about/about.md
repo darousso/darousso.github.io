@@ -1,10 +1,5 @@
 # About Me:
 
-## Who am I, the short version:
-Hello! I am a fourth-year experimental particle physics PhD student in the [High Energy Physics Group](https://www.hep.phy.cam.ac.uk) in the Cavendish Laboratory at the University of Cambridge as a member of the ATLAS Collaboration on the Large Hadron Collider (LHC) at CERN, funded by the Gates Cambridge Scholarship.
-
-My research is on searches for new particles beyond the standard model in ATLAS, focusing on the possibility that these new particles could be living long enough to travel some distance through the detector before decaying. I also have done hardware work, designing and developing the automatic strips sensors quality control automated decision and reporting framework for the ATLAS inner tracker upgrade (ITk). I also do teaching (supervisions/TAing) at Cambridge and outreach at CERN.
-
 ## What I do now:
 ### Analysis Research:
 Our understanding of what parts the universe is made of and how they all interact with each other is detailed in a theory called the Standard Model (SM). This is one of the most precisely tested theories in science and (despite our hopes of finding new physics) has been confirmed to a stunning precision by nearly all laboratory experiments to date. However, the theory is still incomplete, unable to describe dark matter or even gravity. All this strongly hints at the existence of new as of yet undiscovered particles beyond the Standard Model (BSM).
@@ -40,7 +35,7 @@ The inner tracker of ATLAS is getting an upgrade (ITk) for the high-lumi LHC (Ru
 
 I supervised (the Cambridge version of TAing but with much fewer students) the Part IB (2nd year) Mathematical Methods, Part II (3rd year) Particle and Nuclear Physics, and Part III (Masters) Particle Physics modules. 
 
-As I started my PhD with no particle physics background, and found many resources confusing and inaccessible, I have along my learning and teaching journey been writing a textbook aimed at trying to get other students that are in my position with basic calculus knowledge to working particle physics knowledge in a 
+As I started my PhD with no particle physics background, and found many resources confusing and inaccessible, I have along my learning and teaching journey been writing a textbook aimed at trying to get other students that were in my position with basic calculus knowledge to working particle physics knowledge in a   . This has also 
 
 ### Outreach:
 
