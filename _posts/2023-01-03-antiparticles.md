@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Why do we say antiparticles go backwards in time and have opposite helicity?"
+title: "Why do antiparticles have the opposite helicity?"
 date: 2023-01-03
 ---
 
-This is a very common question when learning particle physics. We learn that antiparticles arise due to the incorporation of relativity into quantum mechanics causing both a positive and negative solution for energy to appear. Antiparticles are those negative energy solutions. Negative energy is a bit difficult to deal with so we abstract this out using different spinor bases, but the result of this is that the helicity, the spin in the direction of the particle's velocity, gets flipped for some reason. We also as a convention represent them in Feynman diagrams as particles "going backwards in time". The following is a foray into how this all comes about, created for the audience of the Part III/Masters Particle Physics course.
+This is a very common question when learning particle physics. We learn that antiparticles arise due to the incorporation of relativity into quantum mechanics causing both a positive and negative solution for energy to appear. Antiparticles are those negative energy solutions. Negative energy is a bit difficult to deal with so we abstract this out using different spinor bases, using $$u_1$$ and $$u_2$$ spinors for the particles and the $$v_1$$ and $$v_2$$ spinors for the antiparticles rather than using all 4 in the same basis. The result of this is that the helicity, the spin in the direction of the particle's velocity, gets flipped. The following is a foray into how this comes about, created for the audience of the Part III/Masters Particle Physics course and based on the notes from [https://www.hep.phy.cam.ac.uk/~lester/teaching/partIIIparticles/welcome.html](https://www.hep.phy.cam.ac.uk/~lester/teaching/partIIIparticles/welcome.html).
 
 Just to make sure we are on the same page here, let us define two different quantities: **"mathematical momentum"** $p_m$ (i.e. the momentum directly from the wave-equation if we are ignorant to the fact that anti-particles exist), and **"practical momentum"** $p_p$ (i.e. the momentum we would actually observe in real life).
 

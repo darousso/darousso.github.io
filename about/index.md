@@ -113,6 +113,6 @@ Due to the complete mess that is the above, I have resided in 6 different countr
 
 My mother tongue is English, however I also speak French as I had done most of my schooling prior to undergrad in French. I am learning German, and have previously learned to a very elementary level the languages from the countries I have resided in. Linguistics, particularly phonetics, phonology, and morphology have accordingly grown to become one of my side interests. 
 
-Prior to my undergrad I was had trained as a classical pianist, obtaining an Associate Diploma (ARCT) in Piano Performance as well as Elementary Piano Pedagogy from the Canadian Royal Conservatory of Music. 
+Prior to my undergrad I had trained as a classical pianist, obtaining an Associate Diploma (ARCT) in Piano Performance as well as Elementary Piano Pedagogy of the Canadian Royal Conservatory of Music. 
 
 I enjoy hiking, skiing, and coxing (the person in a rowing boat team that doesn't do any exercise but steers and yells at the people doing the actual exercise), and have written two full-length fiction novels which are terrible and will never see the light of day. However my favourite hobby is exploring new places and experiencing obscure traditional cultural festivals. 
