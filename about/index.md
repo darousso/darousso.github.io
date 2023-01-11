@@ -115,4 +115,4 @@ My mother tongue is English, however I also speak French as I had done most of m
 
 Prior to my undergrad I had trained as a classical pianist, obtaining an Associate Diploma (ARCT) in Piano Performance as well as Elementary Piano Pedagogy of the Canadian Royal Conservatory of Music. 
 
-I enjoy hiking, skiing, and coxing (the person in a rowing boat team that doesn't do any exercise but steers and yells at the people doing the actual exercise), and have written two full-length fiction novels which are terrible and will never see the light of day. However my favourite hobby is exploring new places and experiencing obscure traditional cultural festivals. 
+I enjoy hiking, skiing, and coxing (the person in a rowing boat team that doesn't do any exercise but steers and yells at the people doing the actual exercise), and enjoy writing. However my favourite hobby is exploring new places and experiencing obscure traditional cultural festivals. 
